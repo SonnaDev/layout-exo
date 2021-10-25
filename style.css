@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+  }
+  div{
+    background-color: lightcoral;
+    height: 300px;
+    flex-basis: 30%;
+    border: 1px solid black;
+    width: 300px;
+  }
